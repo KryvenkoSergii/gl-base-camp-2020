@@ -1,4 +1,4 @@
 main (new 3 line):
-1 union main + new_branch2 line: line 1
-2 main line
+1 union main + new_branch2: line 1
+2 union main + new_branch3: line 2
 3 main line: change line 3
