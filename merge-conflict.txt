@@ -1,4 +1,4 @@
-new_branch merge-conflict file
-1 line
-2 line
-3 line
+main (3 lines):
+1 union main + new_branch2 + new_branch: line 1
+2 union main + new_branch3 + new_branch: line 2
+3 main line + new_branch: line 3
